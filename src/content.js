@@ -120,9 +120,9 @@ export const projects = [
       "An attendance project using voice and face recognition as identity inputs. Add the source video or repository link when available.",
     tags: ["Artificial Intelligence", "Face Recognition", "Voice Recognition", "Attendance Automation"],
     visual: "attendance",
-    github: "",
+    github: "https://github.com/esakhan786/snapclass-attendance",
     youtube: "",
-    demo: "",
+    demo: "https://snapclass-attendance-vldchjlwa8kjtqesahgxpv.streamlit.app/",
   },
   {
     number: "03",
